@@ -31,16 +31,16 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Sketchware Tutorial: Getting Started with SketchWare (Lesson 1)🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Tutorial How to Create a Mobile App with SketchwareT create a mobile app with Sketchwa",
+    url: "https://www.youtube.com/watch?v=GSH18Y5Yj9c",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Create an app from scratch with your phone with sketchwar",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "TutorialHow to Create a Mobile App with SketchwareT create a mobile app with Sketchwa",
+    url: "https://www.youtube.com/watch?v=LWoezJZ5Wm4",
   },
   {
     title: "My Resume Site",
